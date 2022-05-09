@@ -2,8 +2,8 @@
 
 <h3 > Participantes do Projeto  </h3>
 
-| [<img src="https://avatars.githubusercontent.com/u/84048306?v=4" width=115><br><sub>Breno Silva</sub>](https://github.com/BrenoRev) | [<img src="https://avatars.githubusercontent.com/u/83982005?v=4" width=115><br><sub>Igor Rafael</sub>](https://github.com/Irafael4732) |[<img src="https://avatars.githubusercontent.com/u/83253838?v=4" width=115><br><sub>Joao Henrique</sub>](https://github.com/joaohenriquebrs)|[<img src="https://avatars.githubusercontent.com/u/93691982?v=4" width=115><br><sub>Joao Nobrega</sub>](https://github.com/joaonobregajvna)
-| :---: | :---: | :---: | :---:
+| [<img src="https://avatars.githubusercontent.com/u/84048306?v=4" width=115><br><sub>Breno Silva</sub>](https://github.com/BrenoRev) | [<img src="https://avatars.githubusercontent.com/u/83982005?v=4" width=115><br><sub>Igor Rafael</sub>](https://github.com/Irafael4732) |
+| :---: | :---: 
 
 <hr>
 
